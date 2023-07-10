@@ -1,5 +1,3 @@
-import Col from 'react-bootstrap/Col';
-import Row from 'react-bootstrap/Row';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faArrowLeft, faArrowRight } from '@fortawesome/free-solid-svg-icons';
 import './App.css';
@@ -42,8 +40,10 @@ function App() {
         </div>
         
         <div className="contentMid">
-          <div className="headYellow">COUNCIL</div>
-          <div className="head">TO DEVELOPER</div>
+          <div className="contentMidHead">
+            <div className="headYellow">COUNCIL</div>
+            <div className="head">TO DEVELOPER</div>
+          </div>
           <div className="Form">
             <div className='containerForm'>
               <div className="display">
