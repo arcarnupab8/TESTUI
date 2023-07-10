@@ -34,10 +34,7 @@ body {
 .headContent{
   display: flex;
   padding-bottom: 3vh;
-<<<<<<< HEAD
-=======
   justify-content: center;
->>>>>>> 5318794 (edit App.js , App.css)
 }
 .head{
   margin: 1.39vh;
@@ -56,23 +53,16 @@ body {
 .HeadRight{
   text-align: right;
   padding: 1.39vh;
-<<<<<<< HEAD
-  margin-left: 23.5vh;
-=======
->>>>>>> 5318794 (edit App.js , App.css)
 }
 .headBlue{
   margin: 0.8vh;
   font-size: 4vh;
   color: BLUE;
 }
-<<<<<<< HEAD
-=======
 .HeadMid{
   width: 25vh;
 }
 
->>>>>>> 5318794 (edit App.js , App.css)
 .contentMid{
   text-align: center;
 }
@@ -117,26 +107,12 @@ body {
   background-color: black;
   border-radius: 1vh;
   margin: 1vh;
-<<<<<<< HEAD
-=======
   justify-content: center;
->>>>>>> 5318794 (edit App.js , App.css)
 }
 .Choice a{
   background-color: white;
   border-radius: 10vh;
   padding: 0.2vh;
-<<<<<<< HEAD
-  margin-left: 1vh;
-}
-.Choice .name{
-  color: white;
-  margin-left: 1vh;
-}
-.Choice .ref{
-  color: yellow;
-  margin-left: 26vh;
-=======
   margin: auto;
 }
 .Choice .name{
@@ -149,7 +125,6 @@ body {
 }
 .Choice .space{
   width: 26vh;
->>>>>>> 5318794 (edit App.js , App.css)
 }
 
 .contentMidBottom{

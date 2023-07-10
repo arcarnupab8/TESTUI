@@ -8,50 +8,6 @@ function App() {
   return (
     <div className="container">
       <div className="containerLeft">
-<<<<<<< HEAD
-          <Row>
-            <Col>
-              <div className='cardRed'>1</div>
-            </Col>
-            <Col>
-              <div className='cardRed'>2</div>
-            </Col>
-            <Col>
-              <div className='cardRed'>3</div>
-            </Col>
-            <Col>
-              <div className='cardRed'>4</div>
-            </Col>
-          </Row>
-          <Row>
-            <Col>
-              <div className='cardRed'>1</div>
-            </Col>
-            <Col>
-              <div className='cardRed'>2</div>
-            </Col>
-            <Col>
-              <div className='cardRed'>3</div>
-            </Col>
-            <Col>
-              <div className='cardRed'>4</div>
-            </Col>
-          </Row>
-          <Row>
-            <Col>
-              <div className='cardRed'>1</div>
-            </Col>
-            <Col>
-              <div className='cardRed'>2</div>
-            </Col>
-            <Col>
-              <div className='cardRed'>3</div>
-            </Col>
-            <Col>
-              <div className='cardRed'>4</div>
-            </Col>
-          </Row>
-=======
           <div className="Col1">
               <div className='cardRed'>1</div>
               <div className='cardRed'>2</div>
@@ -70,7 +26,6 @@ function App() {
               <div className='cardRed'>3</div>
               <div className='cardRed'>4</div>
           </div>
->>>>>>> 5318794 (edit App.js , App.css)
       </div>
       <div className="containerMid">
         <div className="headContent">
@@ -78,11 +33,8 @@ function App() {
             <div className="headRed">RED</div>
             <div className="head">TO DEVELOPER</div>
           </div>
-<<<<<<< HEAD
-=======
           <div className="HeadMid">
           </div>
->>>>>>> 5318794 (edit App.js , App.css)
           <div className="HeadRight">
             <div className="headBlue">BLUE</div>
             <div className="head">TO DEVELOPER</div>
@@ -103,19 +55,13 @@ function App() {
               <div className="Choice">
                 <a>A</a>
                 <div className="name">$10,000,000</div>
-<<<<<<< HEAD
-=======
                 <div className="space"></div>
->>>>>>> 5318794 (edit App.js , App.css)
                 <div className="ref">TO DEVELOPER</div>
               </div>
               <div className="Choice">
                 <a>B</a>
                 <div className="name">$50,000,000</div>
-<<<<<<< HEAD
-=======
                 <div className="space"></div>
->>>>>>> 5318794 (edit App.js , App.css)
                 <div className="ref">TO DEVELOPER</div>
               </div>
             </div>
@@ -143,50 +89,6 @@ function App() {
         </div>
       </div>
       <div className="containerRight">
-<<<<<<< HEAD
-        <Row>
-          <Col>
-            <div className='cardBlue'>1</div>
-          </Col>
-          <Col>
-            <div className='cardBlue'>2</div>
-          </Col>
-          <Col>
-            <div className='cardBlue'>3</div>
-          </Col>
-          <Col>
-            <div className='cardBlue'>4</div>
-          </Col>
-        </Row>
-        <Row>
-          <Col>
-            <div className='cardBlue'>1</div>
-          </Col>
-          <Col>
-            <div className='cardBlue'>2</div>
-          </Col>
-          <Col>
-            <div className='cardBlue'>3</div>
-          </Col>
-          <Col>
-            <div className='cardBlue'>4</div>
-          </Col>
-        </Row>
-        <Row>
-          <Col>
-            <div className='cardBlue'>1</div>
-          </Col>
-          <Col>
-            <div className='cardBlue'>2</div>
-          </Col>
-          <Col>
-            <div className='cardBlue'>3</div>
-          </Col>
-          <Col>
-            <div className='cardBlue'>4</div>
-          </Col>
-        </Row>
-=======
           <div className="Col1">
               <div className='cardBlue'>1</div>
               <div className='cardBlue'>2</div>
@@ -205,7 +107,6 @@ function App() {
               <div className='cardBlue'>3</div>
               <div className='cardBlue'>4</div>
           </div>
->>>>>>> 5318794 (edit App.js , App.css)
       </div>
     </div>
   );
