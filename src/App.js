@@ -6,24 +6,26 @@ function App() {
   return (
     <div className="container">
       <div className="containerLeft">
-          <div className="Col1">
+        <div className='cardSelected'>
+          <div className="Col">
               <div className='cardRed'>1</div>
               <div className='cardRed'>2</div>
               <div className='cardRed'>3</div>
               <div className='cardRed'>4</div>
           </div>
-          <div className="Col2">
+          <div className="Col">
               <div className='cardRed'>1</div>
               <div className='cardRed'>2</div>
               <div className='cardRed'>3</div>
               <div className='cardRed'>4</div>
           </div>
-          <div className="Col3">
+          <div className="Col">
               <div className='cardRed'>1</div>
               <div className='cardRed'>2</div>
               <div className='cardRed'>3</div>
               <div className='cardRed'>4</div>
           </div>
+        </div>
       </div>
       <div className="containerMid">
         <div className="headContent">
@@ -89,24 +91,26 @@ function App() {
         </div>
       </div>
       <div className="containerRight">
-          <div className="Col1">
+        <div className='cardSelected'>
+          <div className="Col">
               <div className='cardBlue'>1</div>
               <div className='cardBlue'>2</div>
               <div className='cardBlue'>3</div>
               <div className='cardBlue'>4</div>
           </div>
-          <div className="Col2">
+          <div className="Col">
               <div className='cardBlue'>1</div>
               <div className='cardBlue'>2</div>
               <div className='cardBlue'>3</div>
               <div className='cardBlue'>4</div>
           </div>
-          <div className="Col3">
+          <div className="Col">
               <div className='cardBlue'>1</div>
               <div className='cardBlue'>2</div>
               <div className='cardBlue'>3</div>
               <div className='cardBlue'>4</div>
           </div>
+        </div>
       </div>
     </div>
   );
