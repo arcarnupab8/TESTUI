@@ -12,11 +12,13 @@ body {
   width: 45vh;
 }
 .cardSelected{
+  width: 100%;
   display: flex;
   justify-content: center;
 }
 
 .cardSelected .Col{
+  width: 100%;
   padding: 2vh;
 }
 
